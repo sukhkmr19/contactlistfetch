@@ -18,6 +18,6 @@ TODO
 Contact list update
 observe change in contact list
 Delete contact 
-serach contact
+search contact
 add in ContactList
 # contactlistfetch
